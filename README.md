@@ -6,6 +6,13 @@ Hi There ^_^
 - **Role:** Front-End Developer && Web/Web App Developer
 - **Passions:** Building modern, responsive web experiences and clean UI/UX designs.
 
+- ### 🚀 Tech Stack
+
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+
+
 
 
 <p align="center">
