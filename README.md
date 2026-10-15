@@ -8,9 +8,12 @@ Hi There ^_^
 
 - ### 🚀 Tech Stack
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
+<h5>
+  <img src="https://githubusercontent.com" alt="HTML5" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://githubusercontent.com" alt="CSS3" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://githubusercontent.com" alt="JavaScript" width="40" height="40" style="vertical-align: middle;"/>
+</h5>
+
 
 
 
