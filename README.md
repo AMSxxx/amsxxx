@@ -8,10 +8,10 @@ Hi There ^_^
 
 - ### 🚀 Tech Stack
 
-![HTML5](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c5cc751d-b956-48a5-bb46-125f397eed18" />
-)
-![CSS3](<img width="512" height="512" alt="css-3" src="https://github.com/user-attachments/assets/16368cc1-97a3-401d-bdbc-7e4efdd5cf57" />)
-![JavaScript](<img width="512" height="512" alt="js" src="https://github.com/user-attachments/assets/c5270dbd-94d2-40f1-8860-3c8eab40f35d" />)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+
 
 
 
